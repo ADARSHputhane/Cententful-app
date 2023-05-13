@@ -6,12 +6,9 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>ContentFul CMS</h1>
+          <h1>Adarsh Puthane</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum atque
-            quos tempore officiis libero perspiciatis dolorum veniam cupiditate
-            ducimus, natus quisquam optio quidem, earum, debitis officia? Optio
-            maxime pariatur a!
+            Please find the project I built in React JS, Python, and Javascript below. You can look at and download the source code from my GitHub website
           </p>
         </div>
         <div className="img-container">
