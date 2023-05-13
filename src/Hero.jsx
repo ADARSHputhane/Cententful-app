@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-center">
         <div className="hero-title">
           <h1>Adarsh Puthane</h1>
-          <p>
+          <p>Developer in JavaScript and Python frameworks 
             Please find the project I built in React JS, Python, and Javascript below. You can look at and download the source code from my GitHub website
           </p>
         </div>
